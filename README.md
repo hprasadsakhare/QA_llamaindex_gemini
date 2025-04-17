@@ -24,6 +24,8 @@ The system follows a sophisticated pipeline:
    - Relevant document chunks are retrieved based on semantic similarity
    - The Gemini AI model generates context-aware answers
 
+![Image](https://github.com/user-attachments/assets/5f70b79a-447e-4ada-aebe-f9123013dfbf)
+
 5. **Response Generation**
    - The system combines retrieved information with the question
    - Gemini AI generates a comprehensive, accurate response
